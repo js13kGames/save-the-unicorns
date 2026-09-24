@@ -1,3 +1,10 @@
+---
+genres:
+  - puzzle
+  - stealth
+  - narrative
+---
+
 # 🦄 Save the Unicorns
 
 **My js13kgames 2026 entry — Vanilla JS · HTML5 Canvas · Zero dependencies · Under 13,312 bytes**
