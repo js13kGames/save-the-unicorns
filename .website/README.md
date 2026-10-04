@@ -3,9 +3,10 @@ genres:
   - puzzle
   - stealth
   - narrative
+post: https://github.com/Amibi-1/SaveTheUnicorns/blob/main/README.md
 ---
 
-# 🦄 Save the Unicorns
+# 🌈 Save the Unicorns
 
 **My js13kgames 2026 entry — Vanilla JS · HTML5 Canvas · Zero dependencies · Under 13,312 bytes**
 
